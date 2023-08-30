@@ -36,7 +36,7 @@
     "@nuxt/kit": "^3.0.0-rc.13",
     "h3": "^0.8.6",
     "next-auth": "^4.16.2",
-    "pathe": "^0.3.9"
+    "pathe": "^1.1.1"
   },
   "devDependencies": {
     "@nuxt/module-builder": "^0.2.0",
