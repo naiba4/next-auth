@@ -39,7 +39,7 @@
     "@aws-sdk/lib-dynamodb": "^3.36.1",
     "@next-auth/adapter-test": "workspace:*",
     "@next-auth/tsconfig": "workspace:*",
-    "@shelf/jest-dynamodb": "^2.1.0",
+    "@shelf/jest-dynamodb": "^3.4.3",
     "jest": "^27.4.3",
     "next-auth": "workspace:*"
   }
