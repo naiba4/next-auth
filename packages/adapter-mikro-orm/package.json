@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@mikro-orm/core": "^5",
-    "@mikro-orm/sqlite": "^5",
+    "@mikro-orm/sqlite": "^6.0.0",
     "@next-auth/adapter-test": "workspace:*",
     "@next-auth/tsconfig": "workspace:*",
     "@types/uuid": ">=8",
