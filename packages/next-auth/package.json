@@ -69,7 +69,7 @@
   "dependencies": {
     "@babel/runtime": "^7.16.3",
     "@panva/hkdf": "^1.0.1",
-    "cookie": "^0.5.0",
+    "cookie": "^0.7.0",
     "jose": "^4.9.3",
     "oauth": "^0.9.15",
     "openid-client": "^5.1.0",
@@ -119,7 +119,7 @@
     "jest": "^28.1.1",
     "jest-environment-jsdom": "^28.1.1",
     "jest-watch-typeahead": "^1.1.0",
-    "msw": "^0.42.3",
+    "msw": "^2.0.0",
     "next": "13.0.6",
     "postcss": "^8.4.14",
     "postcss-cli": "^9.1.0",
