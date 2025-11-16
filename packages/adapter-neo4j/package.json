@@ -40,7 +40,7 @@
     "@next-auth/adapter-test": "workspace:*",
     "@next-auth/tsconfig": "workspace:*",
     "@types/uuid": "^8.3.3",
-    "jest": "^27.4.3",
+    "jest": "^28.0.0",
     "neo4j-driver": "^4.4.0",
     "next-auth": "workspace:*"
   },
