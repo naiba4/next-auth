@@ -33,7 +33,7 @@
     "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.0.0-rc.13",
+    "@nuxt/kit": "^3.0.0",
     "h3": "^0.8.6",
     "next-auth": "^4.16.2",
     "pathe": "^0.3.9"
